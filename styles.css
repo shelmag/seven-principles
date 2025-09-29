@@ -60,7 +60,8 @@ ul {
     border-radius: 30px;
     margin-bottom: 32px;
     margin-top: 32px;
-    margin-right: 60%;
+    margin-right: 20%;
+    max-width: 180px;
     font-family: "Nabla", system-ui;
     border: 6px solid rgb(93, 76, 159);
     border-style: double;
@@ -80,8 +81,4 @@ h4 {
 
 .list-para {
     color: rgb(194, 153, 231);
-}
-
-.intro {
-    font-size: 30px;
 }
