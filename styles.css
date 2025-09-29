@@ -1,0 +1,83 @@
+body {
+    background-color: #2d1f41;
+    color: rgb(221, 219, 214);
+    font-family: "DM Sans", sans-serif;
+}
+
+main {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: "Nabla", system-ui;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 110%;
+    color: rgb(255, 209, 82);
+    padding: 16px;
+    border-radius: 30px;
+    margin-bottom: 32px;
+    margin-top: 32px;
+    border: 6px solid rgb(93, 76, 159);
+    border-style: double;
+}
+
+p {
+    font-size: 16px;
+    text-indent: 32px;
+}
+
+a {
+    color: rgb(255, 209, 82);
+    text-decoration: none;
+    border: 1px solid rgb(255, 209, 82);
+    border-radius: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    transition: background-color 1s;
+}
+
+a:hover {
+    background-color: rgb(93, 76, 159);
+    font-family: "Nabla", system-ui;
+}
+
+a:visited {
+    border: 1px solid rgb(194, 153, 231);
+}
+
+ul {
+    list-style-type: square;
+    color: rgb(255, 209, 82);
+    padding: 16px;
+    padding-left: 32px;
+    border-radius: 30px;
+    margin-bottom: 32px;
+    margin-top: 32px;
+    margin-right: 310px;
+    font-family: "Nabla", system-ui;
+    border: 6px solid rgb(93, 76, 159);
+    border-style: double;
+}
+
+h3 {
+    color: rgb(255, 209, 82);
+}
+
+h4 {
+    color: rgb(255, 209, 82);
+}
+
+.byline {
+    color: rgb(194, 153, 231);
+} 
+
+.list-para {
+    color: rgb(194, 153, 231);
+}
